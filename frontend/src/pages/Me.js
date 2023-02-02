@@ -2,8 +2,6 @@ import { useEffect, useState} from "react";
 import { redirect } from "react-router-dom";
 import { checkAuthLoader, getCredentials } from "../util/auth";
 
-
-
 const MePage = () => {
     const [email, setEmail] = useState(null);
     useEffect(() => {

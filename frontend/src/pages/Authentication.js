@@ -46,7 +46,7 @@ export async function action({ request }) {
   const token = resData.token;
 
   localStorage.setItem("token", token);
-  //  так можна, але той бекенд повертає фігню по експерейшину, тому я вручну поставлю ескп
+  //  так можна, але бекенд повертає фігню по експерейшину, тому я вручну поставлю ескп
   // const dataToken = jwt(token);
   // localStorage.setItem("email", dataToken.email);
   // localStorage.setItem("exp", dataToken.exp);
