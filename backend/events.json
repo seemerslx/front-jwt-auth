@@ -1,0 +1,33 @@
+{
+    "events": [
+        {
+            "title": "Amigo",
+            "image": "https://blog.hubspot.de/hubfs/Germany/Blog_images/Optimize_Marketing%20Events%20DACH%202021.jpg",
+            "date": "2004-01-23",
+            "description": "sdsds",
+            "id": "b2a68086-3f88-4c84-805a-cd5b049f7f23"
+        }
+    ],
+    "users": [
+        {
+            "email": "jlw230604@gmail.com",
+            "password": "$2a$12$o91NLfHaj8RjWAAA.F/pAuL3rAaHIdLchSJ8Qx2LR9kuS55NvOeAi",
+            "id": "80e4532a-8a7a-4a33-90ba-d98db39f45df"
+        },
+        {
+            "email": "jlw230604@gmail.com12312",
+            "password": "$2a$12$smkYFmEvY9vQK.BK7tpeFOcmZJ9a6Fbtwrci.1m0Q1Vql/G9ySQHO",
+            "id": "fb40a83e-ecd0-4662-bd59-8f4d0f781f84"
+        },
+        {
+            "email": "mishkafreddy123@gmail.com",
+            "password": "$2a$12$H0z4CzIVVtrhUqZxnz/wTuDLABU1lvaVBaYh.EiPozpHbbuYA8jk2",
+            "id": "f4ba06a2-cd6f-486a-9551-7862bd27a181"
+        },
+        {
+            "email": "mishkafreddy1234@gmail.com",
+            "password": "$2a$12$xsR2r0/chqelQ9qJXwZIRulimeIMZVqImsEyW4mwGF279i86ZfY6W",
+            "id": "bd471ed2-e932-4e24-9a50-850047406097"
+        }
+    ]
+}
